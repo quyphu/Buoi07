@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\bin\Debug\Bai_02.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\bin\Debug\Bai_02.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\bin\Debug\Bai_02.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\Bai_02\obj\Debug\Bai_02.pdb

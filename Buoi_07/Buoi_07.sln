@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_07", "Buoi_07\Buoi_07.csproj", "{41F9AAE2-B813-4E8F-BB34-AEBE986EE31E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CongTruNhanChia", "CongTruNhanChia\CongTruNhanChia.csproj", "{C0696A8C-4EEC-455F-AF26-15CA42065EBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_01", "CongTruNhanChia\Bai_01.csproj", "{C0696A8C-4EEC-455F-AF26-15CA42065EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_02", "Bai_02\Bai_02.csproj", "{930831F1-8920-4194-A71B-5A9F9236C1E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C0696A8C-4EEC-455F-AF26-15CA42065EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0696A8C-4EEC-455F-AF26-15CA42065EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0696A8C-4EEC-455F-AF26-15CA42065EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930831F1-8920-4194-A71B-5A9F9236C1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930831F1-8920-4194-A71B-5A9F9236C1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930831F1-8920-4194-A71B-5A9F9236C1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930831F1-8920-4194-A71B-5A9F9236C1E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

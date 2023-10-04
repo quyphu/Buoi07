@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\bin\Debug\CongTruNhanChia.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\Bai_01.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\CongTruNhanChia.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\CongTruNhanChia.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\Bai_01.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\CongTruNhanChia.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Buoi_07\CongTruNhanChia\obj\Debug\CongTruNhanChia.pdb

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\bin\Debug\Buoi_07.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\bin\Debug\Buoi_07.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\bin\Debug\Buoi_07.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi_07\Buoi_07\obj\Debug\Buoi_07.pdb
